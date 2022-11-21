@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.333);
+    background-color: rgb(112, 122, 175);
+}
+li {
+    font-size:20px;
+    font-style: italic;
+    font-weight: normal;
+    background-color: rgb(98, 209, 243);
+}
+a {
+    color: maroon;
+    text-decoration:  none;
+}
+a:hover {
+    text-decoration: underline;
+    /* font-weight: bold;
+    font-size: 18px; */
+}
+a:visited {
+    color: blue;
+}
+.resumeListHeading {
+    font-weight: bold;
+    
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify{text-align: justify;}
+
+.homebg {
+    background-image: url('../images/BrandonEdit_1.2.1.jpg');
+    background-position: top right;
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    background-color: rgb(139, 90, 230);
+}
